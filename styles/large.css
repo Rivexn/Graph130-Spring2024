@@ -9,5 +9,9 @@ body {
 }
 
 .image-right {
-    float: left;
+    float: right;
+}
+
+.image-left {
+    float:left;
 }
